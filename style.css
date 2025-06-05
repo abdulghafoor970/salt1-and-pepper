@@ -133,6 +133,7 @@ margin: 20px;
     align-items: center;
     gap: 20px;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .div1{
         display: flex;
